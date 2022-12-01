@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django with DRF and VueJs**
 
-- 🔭 I’m currently working on my career final work [SisAcad](https://github.com/ivangillig/sisacad/tree/main/backend) - A school management web app.  
+- 🔭 I am currently working on my final degree project [SisAcad](https://github.com/ivangillig/sisacad/tree/main/backend) - A school management web app.  
 
 - 📫 How to reach me **ivan.gillig@gmail.com**
 
