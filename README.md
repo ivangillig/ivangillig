@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivangillig&label=Profile%20views&color=0e75b6&style=flat" alt="ivangillig" /> </p>
 
-- 🌱 I’m currently learning **Django with DRF and VueJs**
-
-- 🔭 I am currently working on my final degree project [SisAcad](https://github.com/ivangillig/sisacad/tree/main/backend) - A school management web app.  
+- 🔭 I am currently working on a classifieds web app [Classifieds](https://github.com/ivangillig/classifieds-api) 
 
 - 📫 How to reach me **ivan.gillig@gmail.com**
 
